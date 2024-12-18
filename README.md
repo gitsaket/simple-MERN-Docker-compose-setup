@@ -170,9 +170,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React Documentation](https://reactjs.org/)
 - [Express Documentation](https://expressjs.com/)
 - [MongoDB Documentation](https://docs.mongodb.com/)
-
-## 📧 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/project-name](https://github.com/yourusername/project-name)
